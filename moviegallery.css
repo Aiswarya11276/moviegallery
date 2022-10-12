@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    
+}
+.row{
+    height: 1500px;
+    width: 1898px;
+    background-color: black;
+    position: relative;
+}
+.col{
+    height: 800px;
+    width: 18%;
+    border:white 2px solid ;
+    position: absolute;
+    color: white;
+ 
+    /* background-color: aqua; */
+}
+.col-1{
+    left: 1%;
+    
+}
+.col-2{
+    left: 20%;
+   
+}.col-3{
+    left: 39%;
+   border-color: azure;
+
+}.col-4{
+    left: 58%;
+    
+}
+
+img{
+    width: 336px;
+    height: 462px;
+}
+#r{
+    border: white 1px solid;
+    padding: 5px;
+    color: white;
+}
